@@ -7,7 +7,7 @@ Use this Google App Script as Standalone Script
 
 1. Go to https://script.google.com/home
 2. Select Create a New Project
-3. Copy this Script and Paste it there
+3. Copy saveAsCsv_standalone.gs Script and Paste it there
 4. Replace {googlespreadSheetId} with your Google Spread Sheet ID
 5. Replace {googleDriveFolderId} with your folder ID
 6. Replace {sheetId} with your sheet tab ID
